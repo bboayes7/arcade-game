@@ -10,7 +10,7 @@ To get started run the index.html on your browser and start playing.
 ## How To Play
 Use your arrow keys to move your player.
 
-To win:
+To Win:
 
     - Avoid all bugs on your way to the water
     - When you reach the water, you win
